@@ -1,0 +1,1 @@
+npm run start -- -a 'github api key here' -d 7
